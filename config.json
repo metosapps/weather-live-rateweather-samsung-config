@@ -2,9 +2,9 @@
   "schema_version": 1,
   "package_name": "apps.channelsapp.rateweather.samsungapps.com",
   "channel": "galaxy_store",
-  "revision": 2,
+  "revision": 3,
   "ads": {
-    "enabled": true,
+    "enabled": false,
     "banner": {"enabled": true, "unit_id": "ca-app-pub-3289974964220873/2140669522"},
     "app_open": {"enabled": true, "unit_id": "ca-app-pub-3289974964220873/9847769159", "min_interval_seconds": 600, "show_every_n_opportunities": 1},
     "interstitial": {"enabled": true, "unit_id": "ca-app-pub-3289974964220873/6755799432", "min_interval_seconds": 60, "show_every_n_opportunities": 1},
