@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "package_name": "apps.channelsapp.rateweather.samsungapps.com",
+  "channel": "galaxy_store",
+  "revision": 1,
+  "ads": {
+    "enabled": true,
+    "banner": {"enabled": true, "unit_id": "ca-app-pub-3289974964220873/2140669522"},
+    "app_open": {"enabled": true, "unit_id": "ca-app-pub-3289974964220873/9847769159", "min_interval_seconds": 600},
+    "interstitial": {"enabled": true, "unit_id": "ca-app-pub-3289974964220873/6755799432", "min_interval_seconds": 60},
+    "splash_interstitial": {"enabled": true, "unit_id": "ca-app-pub-3289974964220873/7434995283", "min_interval_seconds": 600},
+    "native": {"enabled": true, "unit_ids": ["ca-app-pub-3289974964220873/2106646986", "ca-app-pub-3289974964220873/5355087855", "ca-app-pub-3289974964220873/4808831948", "ca-app-pub-3289974964220873/9793565312"]}
+  },
+  "links": {"store": "https://apps.samsung.com/appquery/appDetail.as?appId=apps.channelsapp.rateweather.samsungapps.com"},
+  "iap": {"enabled": false, "products": []}
+}
